@@ -1,2 +1,2 @@
-# webpage
+# chiranthm.github.io
 Have created a webpage using html and css only
